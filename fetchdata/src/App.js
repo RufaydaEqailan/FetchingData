@@ -3,7 +3,7 @@
 function App() {
   return (
     <div >
-      Welcome to first react project 
+      Welcome to first react project , inial commit 
     </div>
   );
 }
