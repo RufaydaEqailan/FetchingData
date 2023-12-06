@@ -1,9 +1,13 @@
 
-
+import React from 'react'
+// import FetchData from "./component/FetchData";
+import FetchAxios from './component/FetchAxios';
+// import FetchDataAxios from './component/FetchDataAxios';
 function App() {
+
   return (
     <div >
-      Welcome to first react project , inial commit 
+      <FetchAxios />
     </div>
   );
 }
